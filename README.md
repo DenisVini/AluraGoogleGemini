@@ -1,4 +1,4 @@
-Projeto: Diretório de Atletas Brasileiros para as Olimpíadas 2024
+Projeto de imersão Dev Alura Gemini : Diretório de Atletas Brasileiros para as Olimpíadas 2024
 
 Este projeto tem como objetivo criar um diretório online dos principais atletas brasileiros que participarão das Olimpíadas de 2024. A aplicação permite que os usuários pesquisem por atletas e encontrem informações relevantes, como nome, esporte, breve biografia e links para mais detalhes.
 
